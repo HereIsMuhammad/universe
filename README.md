@@ -9,6 +9,9 @@
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/HereIsMuhammad/universe/pulls)
+[![Astrophysics](https://img.shields.io/badge/Astrophysics-Cosmology-6f42c1?style=for-the-badge&logo=nasa&logoColor=white)](https://en.wikipedia.org/wiki/Astrophysics)
+[![Space](https://img.shields.io/badge/Space-Exploration-0B3D91?style=for-the-badge&logo=spacex&logoColor=white)](https://en.wikipedia.org/wiki/Space_exploration)
+[![Universe](https://img.shields.io/badge/Universe-Cosmos-000000?style=for-the-badge&logo=starship&logoColor=white)](https://en.wikipedia.org/wiki/Universe)
 
 [![GitHub stars](https://img.shields.io/github/stars/HereIsMuhammad/universe?style=for-the-badge&color=yellow)](https://github.com/HereIsMuhammad/universe/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HereIsMuhammad/universe?style=for-the-badge&color=blue)](https://github.com/HereIsMuhammad/universe/network/members)
