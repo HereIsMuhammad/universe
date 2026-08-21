@@ -28,9 +28,9 @@ This isn't a typical code repository. It's a **thinking log** a place to raise q
 
 This repository serves as a centralized hub for:
 
-- 🔭 **Theoretical Inquiry** — Investigating the "Why" behind the vast scale of the observable universe
-- 🕳️ **Astrophysical Paradoxes** — Discussing complex theories like Black Hole Cosmology and the Fermi Paradox
-- 🧬 **Multidisciplinary Analysis** — Thinking through the lenses of a Chemist, Medic, and Zoologist to solve space survival and existence questions
+- 🔭 **Theoretical Inquiry:** Investigating the "Why" behind the vast scale of the observable universe
+- 🕳️ **Astrophysical Paradoxes:** Discussing complex theories like Black Hole Cosmology and the Fermi Paradox
+- 🧬 **Multidisciplinary Analysis:** Thinking through the lenses of a Chemist, Medic, and Zoologist to solve space survival and existence questions
 
 ## 🗂️ Repository Structure
 
@@ -50,9 +50,9 @@ This is a collaborative space for curious minds. Diverse perspectives and intell
 
 **How to contribute your opinion:**
 
-- 🐛 **Open an Issue** — Use the Issues tab to submit your own theories or counter arguments
-- 💬 **Join Discussions** — Take part in community threads to debate existing cosmic questions
-- 🔧 **Submit a Pull Request** — If you have a structured research note or a scientific fact to add, feel free to submit a PR
+- 🐛 **Open an Issue:** Use the Issues tab to submit your own theories or counter arguments
+- 💬 **Join Discussions:** Take part in community threads to debate existing cosmic questions
+- 🔧 **Submit a Pull Request:** If you have a structured research note or a scientific fact to add, feel free to submit a PR
 
 ## 📊 Repository Status
 
