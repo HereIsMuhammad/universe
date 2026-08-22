@@ -1,5 +1,5 @@
 <div align="center"> 
-  
+
 # 🌌 universe
 
 ### Exploring the intersection of astrophysics, existential philosophy, and the mysteries of the cosmos.
